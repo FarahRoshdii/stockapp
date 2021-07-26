@@ -1,8 +1,7 @@
 {
-  "name": "material-kit-react",
+  "name": "stockapp",
   "homepage": "https://github.com/creativetimofficial/material-kit-react",
   "authors": [
-    "creative-tim"
   ],
   "description": "A Badass Material-UI Kit based on Material Design",
   "main": "dist/index.js",
